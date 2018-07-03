@@ -3,16 +3,23 @@ body {
 
 }
 
-.main {
-    width: 1024px;
+#main {
+    max-width: 1024px;
     margin: auto;
+    font-family: 'Lato', sans-serif;
+}
+
+.container {
+    float:left;
+    margin:auto;
+
 }
 
 .col_r,
 .col_l {
     position: relative;
-    width: 40%;
-    padding-left: 15px;
+    width: 45%;
+    padding-left: 0px;
     padding-right: 15px;
 }
 
