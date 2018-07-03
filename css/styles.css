@@ -1,0 +1,26 @@
+
+body {
+
+}
+
+.main {
+    width: 1024px;
+    margin: auto;
+}
+
+.col_r,
+.col_l {
+    position: relative;
+    width: 40%;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.col_l {
+   float:left;
+}
+.col_r {
+   float:right;
+} 
+
+
