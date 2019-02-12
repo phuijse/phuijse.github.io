@@ -33,7 +33,7 @@ background-size: 100px 50px;
 .col_r,
 .col_l {
     position: relative;
-    width: 48%;
+    width: 47%;
     padding-left: 0px;
     padding-right: 0px;
 }
