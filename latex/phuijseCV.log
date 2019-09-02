@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/Arch Linux) (preloaded format=pdflatex 2019.4.27)  24 MAY 2019 13:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Arch Linux) (preloaded format=pdflatex 2019.8.14)  2 SEP 2019 13:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -23,16 +23,16 @@ File: size11.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
 \bibindent=\dimen102
 )
 (/usr/share/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2018/11/13 3.27 The Babel package
+Package: babel 2019/04/03 3.29 The Babel package
 
 (/usr/share/texmf-dist/tex/generic/babel/switch.def
-File: switch.def 2018/11/13 3.27 Babel switching mechanism
+File: switch.def 2019/04/03 3.29 Babel switching mechanism
 )
 (/usr/share/texmf-dist/tex/generic/babel-english/english.ldf
 Language: english 2017/06/06 v3.3r English support from the babel system
 
 (/usr/share/texmf-dist/tex/generic/babel/babel.def
-File: babel.def 2018/11/13 3.27 Babel common definitions
+File: babel.def 2019/04/03 3.29 Babel common definitions
 \babel@savecnt=\count88
 \U@D=\dimen103
 
@@ -75,10 +75,6 @@ Package ifvtex Info: VTeX not detected.
 Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
 Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
 Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
-Package etexcmds Info: Could not find \expanded.
-(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
-(etexcmds)             that some package has redefined \expanded.
-(etexcmds)             In the latter case, load this package earlier.
 Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
 Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
 Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
@@ -314,63 +310,63 @@ ation with the same identifier (name{page.}) has been already used, duplicate i
 gnored
 <to be read again> 
                    \relax 
-l.144         \item  R
-                      . Contreras Ramos, M. Zoccali, F. Rojas, A. Rojas-Arri...
-[3]
+l.138 		
+         [3]
 LaTeX Font Info:    Try loading font information for U+fontawesometwo on input 
-line 147.
-LaTeX Font Info:    No file Ufontawesometwo.fd. on input line 147.
+line 152.
+LaTeX Font Info:    No file Ufontawesometwo.fd. on input line 152.
 
 
 LaTeX Font Warning: Font shape `U/fontawesometwo/m/n' undefined
-(Font)              using `U/cmr/m/n' instead on input line 147.
+(Font)              using `U/cmr/m/n' instead on input line 152.
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.160         \item D
-                     . Nova, P. A. Estévez, \textbf{P. Huijse}, ``K-Nearest...
+l.163         \item S
+                     . Ulloa, P. A. Estevez, \textbf{P. Huijse}, C. M. Held,...
 [4]pdfTeX warning (ext4): destination with the same identifier (name{page.}) ha
 s been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.181         \end{itemize}
-                            [5]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 212.
+l.181         \item `
+                     `Using information theoretic tools and GPGPU to mine pe...
+[5]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 217.
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.212 \end{document}
+l.217 \end{document}
                      [6]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 212.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 217.
  (./phuijseCV.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 212.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 212.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 217.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 217.
 Package rerunfilecheck Info: File `phuijseCV.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 212.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 217.
  ) 
 Here is how much of TeX's memory you used:
- 7065 strings out of 492616
- 101668 string characters out of 6135177
- 202580 words of memory out of 5000000
- 10911 multiletter control sequences out of 15000+600000
+ 7070 strings out of 492623
+ 101757 string characters out of 6135669
+ 202700 words of memory out of 5000000
+ 10917 multiletter control sequences out of 15000+600000
  7798 words of font info for 28 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 28i,7n,25p,572b,499s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 28i,7n,25p,572b,501s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/
 texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/font
 s/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/
 amsfonts/cm/cmr17.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cms
 y10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/
 share/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on phuijseCV.pdf (6 pages, 292278 bytes).
+Output written on phuijseCV.pdf (6 pages, 292787 bytes).
 PDF statistics:
  87 PDF objects out of 1000 (max. 8388607)
  70 compressed objects within 1 object stream
