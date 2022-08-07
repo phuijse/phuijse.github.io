@@ -30,10 +30,12 @@ background-size: 100px 50px;
     float:left;    
 }
 
-.col_r,
+.col_r {
+    width: 60%;
+}
 .col_l {
     position: relative;
-    width: 48%;
+    width: 40%;
     padding-left: 0px;
     padding-right: 0px;
 }
